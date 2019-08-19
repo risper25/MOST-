@@ -9,13 +9,11 @@ We came up with a model that classifies whether a rice leaf :
 1)Is healthy:
 <p align="center">
   <img src="https://ak9.picdn.net/shutterstock/videos/6985969/thumb/1.jpg" width="350">
-
 </p>
+
+
 2)Has BrowSpot disease:
-<p align="center">
-  <img src="https://ak9.picdn.net/shutterstock/videos/6985969/thumb/1.jpg" width="350">
-
-</p>
+![Image description]()
 3)Has Hispa disease:<p align="center">
   <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcontent.peat-cloud.com%2Fthumbnails%2Frice-hispa--2.jpg&imgrefurl=https%3A%2F%2Fplantix.net%2Fplant-disease%2Fen%2F600098%2Frice-hispa-%2F&docid=SBhURSfnR3d9zM&tbnid=6DBxX7OCCKAjTM%3A&vet=10ahUKEwjIi8iouY7kAhVJxoUKHUceBmkQMwhkKBswGw..i&w=300&h=533&client=ubuntu&bih=771&biw=1535&q=hispa&ved=0ahUKEwjIi8iouY7kAhVJxoUKHUceBmkQMwhkKBswGw&iact=mrc&uact=8" width="350">
 
