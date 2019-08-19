@@ -1,6 +1,6 @@
 # MOST-
 Rice is the staple food for more than half the world's population;accordingly, its supply must double by 2050 to keep up with food demand from population growth.
-Nearly a fifth of the world’s population are rice farmers.However,they approximately loose 37% of their rice crop yield to various rice diseases.
+Nearly a fifth of the world’s population are rice farmers.However,they approximately loose 37% of their rice crop yields to various rice diseases.
 
 <p align="center">
   <img src="https://davidcliveprice.com/wp-content/uploads/2014/11/asian-rice-farmers.jpg" width="350" title="hover text">
