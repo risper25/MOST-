@@ -1,4 +1,4 @@
-# MOST-
+# MOST-Inroduction
 Rice is the staple food for more than half the world's population;accordingly, its supply must double by 2050 to keep up with food demand from population growth.
 Nearly a fifth of the world’s population are rice farmers.However,they approximately loose 37% of their rice crop yields to various rice diseases.
 
@@ -8,7 +8,11 @@ Nearly a fifth of the world’s population are rice farmers.However,they approxi
 We came up with a model that classifies whether a rice leaf :
 
 1)Is healthy:
-
+<br>
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdIquvBXmAJo2M1YfCDbJajiaB1BAcOMxJYT0qr82HOsRAIcL" width="150" height="200" title="hover text">
+  </p>
+</br>
 
 2)Has Brownspot:
 <p align="center">
@@ -26,7 +30,5 @@ We came up with a model that classifies whether a rice leaf :
   <img src="https://content.peat-cloud.com/hd/rice-hispa--1.jpg" width="150" height="200" title="hover text">
   </p>
 </br>
-
-#more model description here
 
 We believe our model will help rice farmers know their rice crop’s condition ,hence leading to higher yields.
